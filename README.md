@@ -1,2 +1,2 @@
 # mysite_django
-Django Personal Blog
+Django Personal Blog - Backend
