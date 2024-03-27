@@ -1,0 +1,16 @@
+asgiref==3.7.2
+backports.zoneinfo==0.2.1
+Django==4.2.11
+exceptiongroup==1.2.0
+factory-boy==3.3.0
+Faker==24.3.0
+iniconfig==2.0.0
+packaging==24.0
+pluggy==1.4.0
+pytest==8.1.1
+pytest-django==4.8.0
+python-dateutil==2.9.0.post0
+six==1.16.0
+sqlparse==0.4.4
+tomli==2.0.1
+typing-extensions==4.10.0
